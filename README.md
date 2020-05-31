@@ -8,7 +8,24 @@ Going to a new University can be an intimidating experience. Wondering on to cam
 
 ### Storyboard
 
+https://projects.invisionapp.com/prototype/ckavbxjj000ovga010af1mcv9/play
+
 ### Functional Requirements
+
+As a student starting out at the University of Cincinnati  
+I want to find my way around the University Campus  
+So that I can successfully manage naviagting my way around to help ensure my success with the University
+
+- **Given** Tour-A-Versity app is installed on phone
+- **When** I open up the app
+- **Then** I get an interactive map on my phone  
+  
+  
+- **Given** Tour-A-Versity app is running on phone  
+- **When** I click on Tangeman University Center  
+- **Then** information reguarding Tangeman University Center along with photos and facts appear on the screen.
+
+
 
 ### Class Diagram
 
@@ -17,7 +34,16 @@ Going to a new University can be an intimidating experience. Wondering on to cam
 ### Product Backlog
 
 ### Scrum Board
+-See GitHub Projects
 
 ### Scrum Roles
+
+###### Dev Ops 
+- Charles Holt  
+###### UI Specialist
+- Alen Anand  
+###### Integration Specialist
+- Kyle Brady  
+
 
 ### Link to WebEx
