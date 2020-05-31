@@ -10,6 +10,8 @@ Going to a new University can be an intimidating experience. Wondering on to cam
 
 https://projects.invisionapp.com/prototype/ckavbxjj000ovga010af1mcv9/play
 
+<img src="https://github.com/holtcl/Tour-A-Versity/blob/master/Artboard%201.svg">
+
 ### Functional Requirements
 
 As a student starting out at the University of Cincinnati  
