@@ -1,5 +1,5 @@
-# Tour-A-Versity  
-
+# Tour-A-Versity
+---
 Design Document  
 Charles Holt, Alen Anand, Kyle Brady
 
@@ -16,23 +16,16 @@ As a student starting out at the University of Cincinnati
 I want to find my way around the University Campus  
 So that I can successfully manage naviagting my way around to help ensure my success with the University
 
+1.1  
 - **Given** Tour-A-Versity app is installed on phone
 - **When** I open up the app
 - **Then** I get an interactive map on my phone  
   
-  
+  1.2  
 - **Given** Tour-A-Versity app is running on phone  
 - **When** I click on Tangeman University Center  
 - **Then** information reguarding Tangeman University Center along with photos and facts appear on the screen.
 
-
-- **Given** Tour-A-Versity app is running on phone
-- **When** I click the option to submit a photo of a specific building
-- **Then** My phone opens the camera application and allows me to take a photo of the building and submit it.
-
-- **Given** Tour-A-Versity app is running on phone
-- **When** I select the GPS icon on the main screen
-- **Then** I get a new page that shows me where I am on campus with the help of the GPS
 
 
 ### Class Diagram
