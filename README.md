@@ -41,6 +41,11 @@ So that I can successfully manage naviagting my way around to help ensure my suc
 ### Class Diagram Description
 
 ### Product Backlog
+- Open the app to veiw a map of the campus  
+- Click on Tangeman University Center to view information on the building  
+- Upload photo taken from phone to the app  
+- Use GPS feature to find where you are on the map  
+
 
 ### Scrum Board
 -See GitHub Projects
