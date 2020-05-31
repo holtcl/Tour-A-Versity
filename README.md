@@ -21,12 +21,20 @@ So that I can successfully manage naviagting my way around to help ensure my suc
 - **When** I open up the app
 - **Then** I get an interactive map on my phone  
   
-  1.2  
+1.2  
 - **Given** Tour-A-Versity app is running on phone  
 - **When** I click on Tangeman University Center  
 - **Then** information reguarding Tangeman University Center along with photos and facts appear on the screen.
-
-
+  
+1.3  
+- **Given** Tour-A-Versity app is running on phone
+- **When** I click the option to submit a photo of a specific building
+- **Then** My phone opens the camera application and allows me to take a photo of the building and submit it.
+  
+1.4  
+- **Given** Tour-A-Versity app is running on phone
+- **When** I select the GPS icon on the main screen
+- **Then** I get a new page that shows me where I am on campus with the help of the GPS
 
 ### Class Diagram
 
