@@ -68,3 +68,4 @@ So that I can successfully manage naviagting my way around to help ensure my suc
 
 
 ### Link to WebEx
+WebEx meeting at 4:00 p.m. on Wednesdays - link will be emailed to all members
