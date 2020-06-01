@@ -44,7 +44,7 @@ So that I can successfully manage naviagting my way around to help ensure my suc
 ### Class Diagram Description
 
 - The Main ViewModel is to select the building where you wish to find more information  
--The Building DTO class is for transfering information across the application
+- The Building DTO class is for transfering information across the application
 - The IBuilding DAO is used to transfer data 
 
 ### Product Backlog
