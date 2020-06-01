@@ -39,8 +39,13 @@ So that I can successfully manage naviagting my way around to help ensure my suc
 - **Then** I get a new page that shows me where I am on campus with the help of the GPS
 
 ### Class Diagram
+![ClassDiagram](https://user-images.githubusercontent.com/55214193/83365837-355ed880-a379-11ea-9cff-1f901489f286.png)
 
 ### Class Diagram Description
+
+- The Main ViewModel is to select the building where you wish to find more information  
+-The Building DTO class is for transfering information across the application
+- The IBuilding DAO is used to transfer data 
 
 ### Product Backlog
 - Open the app to veiw a map of the campus  
